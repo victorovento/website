@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Victor Vento',
     // Main Site Title
-    title: `Victor Vento | Software Engineer`,
+    title: `Victor Vento | Software Developer`,
     // Description that goes under your name in main bio
     description: `Code Artisan: Transforming Ideas into Seamless Software Experiences.`,
     // Optional: Twitter account handle
@@ -40,14 +40,19 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Bwelz',
+        description: 'Software Developer, Jan 2024 - Present',
+        link: 'https://bwelz.org',
+      },
+      {
         name: 'Upwork',
-        description: 'Freelancer, Jun 2023 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        description: 'Freelancer, Jun 2023 - Dec 2023',
+        link: 'https://upwork.com',
       },
       {
         name: 'ETECSA',
         description: 'Software Engineer, January 2023 - June 2023',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://www.etecsa.cu',
       },
       {
         name: 'Universidad de Pinar del Rio',
@@ -60,7 +65,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), TypeScript, Node.js, Express.js, Angular, React, Vue',
+          'JavaScript, TypeScript, .NET, Node.js, Express.js, Angular, Vue',
       },
       {
         name: 'Databases',
